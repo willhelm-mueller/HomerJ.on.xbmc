@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.homerj"
+	   name="HomerJ"
+	   version="0.3"
+	   provider-name="Willhelm Mueller [willhelm.mueller@gmx.net]">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+			 library="homerj.py">
+    	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>HomerJ videos on demand</summary>
+    <description>HomerJ VOD nun auch für XBMC. 
+Videoqualitaet ist noch hardgecoded. 
+Ersetzt "720p" entsprechend mit "1080p" oder "480p"
+in xbmc/addons/plugin.video.homerj/homerj.py
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>

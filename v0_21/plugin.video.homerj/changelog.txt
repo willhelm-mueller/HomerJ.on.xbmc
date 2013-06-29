@@ -1,0 +1,7 @@
+[B]Version v0.21[/B]
+- nicer code
+- preview images
+
+[B]Version v0.2[/B]
+- yay first public release :)
+

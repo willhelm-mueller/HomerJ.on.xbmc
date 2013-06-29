@@ -1,0 +1,18 @@
+[B]Version v0.4[/B]
+- Adapted the modifications on HomerJ's webpage 
+
+[B]Version v0.3[/B]
+- Fixed encoding
+- Podcast support 
+
+[B]Version v0.22[/B]
+- Categories containing FSK 18 VODs do not raise Errors anymore
+- FSK 18 VODs are now listed from 10pm to 6am (22:00 bis 6 Uhr)
+
+[B]Version v0.21[/B]
+- nicer code
+- preview images
+
+[B]Version v0.2[/B]
+- yay first public release :)
+
